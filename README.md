@@ -33,7 +33,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network scanning          | <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
 | Vulnerability Scanning , Port Scanning         | <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
 | Malware Analysis - Static Analysis , Analysing Assembly Language of x86,  Analysing extracted strings, Retrieving hashes of files , Identifying filetypes from header information,   |   |
-| Network Traffic analysis |  Wireshark project |
+| Network Traffic analysis - analysing packet capture data to detect compromised hosts |  Wireshark project |
 
 #### Networking
 | Skill                                         | Associated Project         |
@@ -49,8 +49,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- Flare-VM (EZ explorer , Event Viewer,  Sysinternals tools, x64dbg, IDA Free, Ghidra , Cutter, HashmyFiles, Strings , HxD , PeStudio )
+- Kali Linux ( Nmap , Metasploit Framework , Johntheripper, Hydra , Burpe Suite , InetSim)
+- Web OSINT tools ( Shodan , )
+- 
 
 
 ## Certifications
@@ -64,7 +66,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection Lab
-- SOC Automation Project
-- Test Project
+- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Penetration-Testing-Lab---LazySysAdmin</a>
+-
