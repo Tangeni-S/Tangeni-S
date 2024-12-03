@@ -25,18 +25,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 #### Systems Administration
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Server 2019 - Adding Roles and Features          |  |
-| Windows Server 2019 - Configuring Administering DHCP, DNS       |   |
-| Windows Server 2019 - Domain Controller configuration | |
-| Windows Server 2019 - Managing Users and Computers , GPO's    | |
-| Windows Server 2019 - Applying administrative policies      | |
-| Windows 10 / 8 / 7 administration - Initial install, troubleshoot and upgrade/update | |
-| Windows 10 / 8 / 7 administration - Software management | |
-| Windows 10 / 8 / 7 administration - Endpoint security management, Microsoft Defender firewall management| |
-| Windows 10 / 8 / 7 administration - Network Settings configuration and troubleshooting | |
-| Windows Server / Windows Client Task Scheduling | |
-| Reviewing Windows Event Logs| |
-| Reviewing Linux Logs files| |
+| Windows Server 2019 - Adding Roles and Features          | **TO BE UPDATED SOON** |
+| Windows Server 2019 - Configuring Administering DHCP, DNS       |  **TO BE UPDATED SOON** |
+| Windows Server 2019 - Domain Controller configuration | **TO BE UPDATED SOON**|
+| Windows Server 2019 - Managing Users and Computers , GPO's    |**TO BE UPDATED SOON** |
+| Windows Server 2019 - Applying administrative policies      | **TO BE UPDATED SOON**|
+| Windows 10 / 8 / 7 administration - Initial install, troubleshoot and upgrade/update |**TO BE UPDATED SOON** |
+| Windows 10 / 8 / 7 administration - Software management | **TO BE UPDATED SOON**|
+| Windows 10 / 8 / 7 administration - Endpoint security management, Microsoft Defender firewall management|**TO BE UPDATED SOON** |
+| Windows 10 / 8 / 7 administration - Network Settings configuration and troubleshooting | **TO BE UPDATED SOON**|
+| Windows Server / Windows Client Task Scheduling | **TO BE UPDATED SOON**|
+| Reviewing Windows Event Logs| **TO BE UPDATED SOON** |
+| Reviewing Linux Logs files| **TO BE UPDATED SOON**|
 
 
 
@@ -45,19 +45,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Network scanning          | <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
 | Vulnerability Scanning , Port Scanning         | <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
-| Malware Analysis - Static Analysis , Analysing Assembly Language of x86 architecture,  Analysing extracted strings, Retrieving hashes of files , Identifying filetypes from header information,   |   |
-| Network Traffic analysis - analysing packet capture data to detect compromised hosts |  Wireshark project |
+| Malware Analysis - Static Analysis , Analysing Assembly Language of x86 architecture,  Analysing extracted strings, Retrieving hashes of files , Identifying filetypes from header information,   |  **TO BE UPDATED SOON** |
+| Network Traffic analysis - analysing packet capture data to detect compromised hosts |  **TO BE UPDATED SOON** |
 
 #### Networking
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| CISCO - Configuring a CISCO Router | Packet Tracer |
+| CISCO - Configuring a CISCO Router | **TO BE UPDATED SOON** |
 
 
 #### Coding/Programming
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|        a   | |
+|  |  |
 
 
 
@@ -75,5 +75,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### TryHackMe
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OPSEC   | |
+| OPSEC   |**TO BE UPDATED SOON**|
 
