@@ -20,6 +20,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.credly.com/badges/496cab38-a14a-4562-9572-66306c645ed3/public_url"><img src="https://img.shields.io/badge/-Fortinet Certified Fundamentals Cybersecurity-4D4D4D?&style=for-the-badge&logo=Fortinet&logoColor=red" /></a>
 </div>
 
+## Projects
+- <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
+
 ## Skills
 
 #### Systems Administration
@@ -37,7 +40,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Windows Server / Windows Client Task Scheduling | **TO BE UPDATED SOON**|
 | Reviewing Windows Event Logs| **TO BE UPDATED SOON** |
 | Reviewing Linux Logs files| **TO BE UPDATED SOON**|
-
 
 
 #### IT Security Skills
@@ -65,15 +67,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Flare-VM (EZ explorer , Event Viewer,  Sysinternals tools, x64dbg, IDA Free, Ghidra , Cutter, HashmyFiles, Strings , HxD , PeStudio )
 - Kali Linux ( Nmap , Metasploit Framework , Johntheripper, Hydra , Burpe Suite , InetSim)
 - Web OSINT tools ( Shodan , )
-- 
 
-## Projects
-- <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
--
+
 
 ## Techhnical Challenges
 ### TryHackMe
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OPSEC   |**TO BE UPDATED SOON**|
+|    |**TO BE UPDATED SOON**|
 
