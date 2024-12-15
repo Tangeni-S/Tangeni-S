@@ -22,24 +22,25 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
+- <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>
 
 ## Skills
 
 #### Systems Administration
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Server 2019 - Adding Roles and Features          | **TO BE UPDATED SOON** |
-| Windows Server 2019 - Configuring Administering DHCP, DNS       |  **TO BE UPDATED SOON** |
-| Windows Server 2019 - Domain Controller configuration | **TO BE UPDATED SOON**|
-| Windows Server 2019 - Managing Users and Computers , GPO's    |**TO BE UPDATED SOON** |
-| Windows Server 2019 - Applying administrative policies      | **TO BE UPDATED SOON**|
-| Windows 10 / 8 / 7 administration - Initial install, troubleshoot and upgrade/update |**TO BE UPDATED SOON** |
-| Windows 10 / 8 / 7 administration - Software management | **TO BE UPDATED SOON**|
-| Windows 10 / 8 / 7 administration - Endpoint security management, Microsoft Defender firewall management|**TO BE UPDATED SOON** |
-| Windows 10 / 8 / 7 administration - Network Settings configuration and troubleshooting | **TO BE UPDATED SOON**|
-| Windows Server / Windows Client Task Scheduling | **TO BE UPDATED SOON**|
-| Reviewing Windows Event Logs| **TO BE UPDATED SOON** |
-| Reviewing Linux Logs files| **TO BE UPDATED SOON**|
+| Windows Server 2019 - Adding Roles and Features          | <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a> |
+| Windows Server 2019 - Configuring Administering DHCP, DNS       |  <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a> |
+| Windows Server 2019 - Domain Controller configuration | <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
+| Windows Server 2019 - Managing Users and Computers , GPO's    |<a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a> |
+| Windows Server 2019 - Applying administrative policies      | <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
+| Windows 10 / 8 / 7 administration - Initial install, troubleshoot and upgrade/update |<a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a> |
+| Windows 10 / 8 / 7 administration - Software management | <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
+| Windows 10 / 8 / 7 administration - Endpoint security management, Microsoft Defender firewall management|<a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a> |
+| Windows 10 / 8 / 7 administration - Network Settings configuration and troubleshooting | <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
+| Windows Server / Windows Client Task Scheduling | <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
+| Reviewing Windows Event Logs| <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a> |
+| Reviewing Linux Logs files| <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
 
 
 #### IT Security Skills
