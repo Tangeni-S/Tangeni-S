@@ -71,7 +71,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
-## Techhnical Challenges
+## Technical Challenges
 ### TryHackMe
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
