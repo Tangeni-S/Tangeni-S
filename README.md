@@ -23,6 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
 - <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>
+- <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---Jangow-VM">Penetration-Testing-Lab---Jangow-VM</a>|
 
 ## Skills
 
