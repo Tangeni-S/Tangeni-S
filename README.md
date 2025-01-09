@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/ntshikukutu94/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-ISC2 Member ID:1582703-0072b1?&style=for-the-badge&logo=isc2&logoColor=white" />
 
-I am a Computer Science graduate with a profound interest in Information Technology and Cyber Security, with a  dedicated interest in solving complex problems. 
+Cybersecurity graduate with internship experience in managing and securing Information Technology Infrastructure in Medium-Large scale IT environments
 
 
 ## Objective
