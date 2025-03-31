@@ -41,7 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Windows 10 / 8 / 7 administration - Network Settings configuration and troubleshooting | <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
 | Windows Server / Windows Client Task Scheduling | <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
 | Reviewing Windows Event Logs| <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a> |
-| Reviewing Linux Logs files| <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019">System Administration--Windows Server 2019</a>|
+
 
 
 #### IT Security Skills
