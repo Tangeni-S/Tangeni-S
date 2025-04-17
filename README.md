@@ -50,7 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network scanning          | <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
 | Vulnerability Scanning , Port Scanning         | <a href="https://github.com/Tangeni-S/Penetration-Testing-Lab---LazySysAdmin.git">Penetration-Testing-Lab---LazySysAdmin</a>|
 | Malware Analysis - Static Analysis , Analysing Assembly Language of x86 architecture,  Analysing extracted strings, Retrieving hashes of files , Identifying filetypes from header information,   |   <a href="https://github.com/Tangeni-S/Malware-Analysis-and-Reverse-Engineering.md.git">Malware Analysis Labs</a> |
-| Network Traffic analysis - analysing packet capture data to detect compromised hosts |  **TO BE UPDATED SOON** |
+| Network Traffic analysis - analysing packet capture data to detect compromised hosts |  <a href="https://github.com/Tangeni-S/Network-Traffic-Analysis.git">Network traffic analysis</a> |
 | Fortigate 7.2.11 administration - FortiOS 7.2 |  **TO BE UPDATED SOON** |
 
 #### Networking
